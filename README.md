@@ -2,9 +2,9 @@
 
 ## 🛡️ About Me
 
-Welcome to my cybersecurity GitHub portfolio! I'm a passionate cybersecurity practitioner with hands-on experience in Security Operations, threat hunting, and Automation. My journey includes completing the Google Cybersecurity Professional Certificate, engaging in realistic SOC simulations, and building practical security solutions.
+Welcome to my cybersecurity GitHub portfolio! I'm a passionate cybersecurity practitioner with hands-on experience in Security Operations, threat hunting, and Automation. My journey includes completing the Google Cybersecurity Professional Certificate, engaging in realistic SOC simulations, labs, and building practical security solutions. **You can explore my projects below:**
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🔒 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
