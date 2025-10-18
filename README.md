@@ -61,7 +61,7 @@ But since that's not practical, I focus on making systems as secure as possible 
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[email]: www.sh.umairasif07@gmail.com
+[email]: mailto:sh.umairasif07@gmail.com
 [linkedin]: https://linkedin.com/in/joshmadakor
 </br>
 </br>
