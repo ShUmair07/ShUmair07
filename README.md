@@ -48,6 +48,9 @@ Boss of the SOC (BOTS):
 Scenario 1: APT investigation and containment
 
 Scenario 2: Ransomware incident response and recovery
+
+<b><i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." - Gene Spafford
+But since that's not practical, I focus on making systems as secure as possible while maintaining usability. 🔐</b></i>
 -->
 <h2> 🤳 Connect with me:</h2>
 
@@ -58,7 +61,7 @@ Scenario 2: Ransomware incident response and recovery
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[email]: sh.umairasif07@gmail.com
+[email]: www.sh.umairasif07@gmail.com
 [linkedin]: https://linkedin.com/in/joshmadakor
 </br>
 </br>
