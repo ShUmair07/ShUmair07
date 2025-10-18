@@ -34,14 +34,33 @@ Welcome to my cybersecurity GitHub portfolio! I'm a passionate cybersecurity pra
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+SOC Simulations
+Let's Defend Platform: Successfully mitigated 15+ simulated threats including:
+
+SOC326: Detected and responded to MX record spoofing attacks
+
+SOC173: Contained Follina 0-day exploit (CVE-2022-30190)
+
+SOC282: Triaged phishing campaigns and prevented credential theft
+
+Boss of the SOC (BOTS):
+
+Scenario 1: APT investigation and containment
+
+Scenario 2: Ransomware incident response and recovery
 -->
+<h2> 🤳 Connect with me:</h2>
+
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ShUmair | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[email]: sh.umairasif07@gmail.com
 [linkedin]: https://linkedin.com/in/joshmadakor
+</br>
+</br>
+Location: [Karachi, Pakistan]</br>
+Availability: Open to cybersecurity opportunities and collaborations
