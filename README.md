@@ -20,7 +20,11 @@ Welcome to my cybersecurity GitHub portfolio! I'm a passionate cybersecurity pra
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Caesar Cipher Algorithm (Encrypter/Decrypter)](https://github.com/ShUmair07/PRODIGY_CS_01)
+  - [Image Encryption via Pixel Manipulation](https://github.com/ShUmair07/PRODIGY_CS_02)
+  - [Password Complexity Checker](https://github.com/ShUmair07/PRODIGY_CS_03)
+  - [Ethical Keylogger](https://github.com/ShUmair07/PRODIGY_CS_04) <b><i>(Educational Use Only)</b></i>
+  - [Network Packet Analyzer](https://github.com/ShUmair07/PRODIGY_CS_05)
 
 <!-- <h2>📺 Popular YouTube Videos</h2>
 
